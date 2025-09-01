@@ -3,30 +3,29 @@ Hands on cybersecurity lab portfolio documenting my skill's dev TryHackMe, perso
 Welcome! 
 
 Area to focus on:
-Practical skill-building with TryHackMe, Udemy, and self-built home labs
-Tools like Nmap, Wireshark, Burp Suite, and Metasploit
-Documentation of every challenge solved and concept learned
- # Sections
- # TryHackMe Labs
-Walkthroughs and screenshots from completed paths like:
+# 🧠 TryHackMe Labs Portfolio
 
-Cybersecurity 
-SOC Level 1
-Complete Beginner
-Offensive Pentesting
+This repo documents my hands-on cybersecurity labs from [TryHackMe] https://tryhackme.com/p/amos.saidi, covering topics like pentesting, privilege escalation, and web exploitation.
 
-Windows 10/11 virtual machine config
-Shared folder setup and troubleshooting
-Cisco Packet Tracer exercises
-🔹 Personal Projects
-Full Windows/Linux home lab setup
-Log analysis from simulated attacks
-VM snapshots and version control
-🔹 Tools Practice
-Cheatsheets and exercises using:
+## 🔍 Featured Labs
+- **Cyber Security 101**:
+  Computer networking and cryptography, MS Windows
+  Active Directory, and Linux basics
+  Offensive security tools and system exploitation
+  Defensive security solutions and tools.
+- **SOC 101**:
+  Monitor and investigate alerts (most of the time, it's a 24x7 SOC operations environment)
+  Configure and manage security tools
+  Develop and implement IDS signatures
+  Escalate the security incidents to the Tier 2 and Team Lead if needed
+- **Offensive Pentesting**: Enumeration, exploitation, post-exploitation
+- **Windows PrivEsc**: Using WinPEAS, PowerUp, and manual analysis
+- **Web Exploitation**: SQLi, XSS, and authentication bypass
 
-nmap, tcpdump, Wireshark, enum4linux, Hydra, and more
-📜 Certifications In Progress
-📌 Connect with Me
+Each folder contains:
+- 📝 Lab summaries
+- 📸 Screenshots
+- 🧰 Tools used
+- 💡 Key takeaways
 LinkedIn
 [TryHackMe Profile] https://tryhackme.com/p/amos.saidi
