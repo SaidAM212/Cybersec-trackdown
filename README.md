@@ -7,7 +7,7 @@ Practical skill-building with TryHackMe, Udemy, and self-built home labs
 Tools like Nmap, Wireshark, Burp Suite, and Metasploit
 Documentation of every challenge solved and concept learned
  # Sections
-# TryHackMe Labs
+ # TryHackMe Labs
 Walkthroughs and screenshots from completed paths like:
 
 Cybersecurity 
